@@ -1,4 +1,5 @@
 # Mood Messenger
+(GCP Credits Exhausted)
 Mood Messenger is a real-time chat application built using Node.js, React.js, and Cloud SQL. It allows users to sign in with their Google account, initiate chats with other registered users based on their email, send messages, and view previous chats.
 
 [Link](https://mood-messenger.web.app)
